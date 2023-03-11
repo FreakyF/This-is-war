@@ -1,19 +1,19 @@
-# Funkcjonalność
+# Features
 
-## Gracz będzie mógł:
+## The player will be able to:
 
-* uruchomić nową grę,
+* start a new game,
 
-* poddać się,
+* surrender,
 
-* sprawdzić globalne statystyki,
+* check statistics,
 
-* wyjść z gry,
+* exit the game,
 
-* spasować ruch,
+* pass the turn,
 
-* anulować zagranie wybranej przez niego karty z talii,
+* cancel playing a card from the deck,
 
-Gra będzie toczyła się pomiędzy dwoma graczami, do momentu, gdy któryś z graczy przegra dwie rundy. 
-Runda polega na zdobyciu większej ilości punktów od przeciwnika. 
-Gracz może rzucić jedną kartę w trakcie trwania ruchu. Rundę wygrywa gracz, który zdobędzie większą ilość punktów
+The game will be played between two players, until either player loses two rounds. 
+A round is based on scoring more points than the opponent. 
+A player can flip one card during the course of a move. The round is won by the player who scores more points.
