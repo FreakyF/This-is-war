@@ -4,6 +4,10 @@
 
 * start a new game,
 
+* win a game,
+
+* lose a game,
+
 * surrender,
 
 * check statistics,
@@ -14,6 +18,8 @@
 
 * cancel playing a card from the deck,
 
-The game will be played between two players, until either player loses two rounds. 
+* send a restart request to the other player
+
+The game will be played between two players, until either player loses two rounds. If both players get a draw, the match continues from the beginning with new deck.
 A round is based on scoring more points than the opponent. 
 A player can flip one card during the course of a move. The round is won by the player who scores more points.
